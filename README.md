@@ -1,2 +1,1 @@
-# Front-end-mentor-product-preview-card-component-main
-I found this design on front-end mentor and I decide to clone it.
+## I found this design on Front end mentor so I decide to clone it.
